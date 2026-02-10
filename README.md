@@ -587,6 +587,11 @@ The system includes a data pipeline for generating realistic test data:
 ---
 
 ## 📄 License
+This project is inspired by the reinforcement learning framework introduced by Bousoulas and Grassitelli (2025). The full system implementation—including the RL agents, simulation environment, reward design, and experimental evaluation—was independently developed and validated using synthetic data generated for this project.
+
+Reference:
+Bousoulas, K., & Grassitelli, L. (2025). AI-Powered Credit Limit Decisions for Revolving Credit: A Reinforcement Learning Approach.
+https://www.crc.business-school.ed.ac.uk/sites/crc/files/2025-11/AI-Powered-Credit-Limit-Decisions-for-Revolving-Credit_-A-Reinforcement-Learning-Approach-paper.pdf
 
 MIT License - See [LICENSE](LICENSE) for details.
 
